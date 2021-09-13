@@ -8,6 +8,4 @@ and then kiwi
 
 [link](https://github.com/bmahardja)
 
-```{r test}
-1+2+3
-```
+
