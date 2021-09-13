@@ -8,4 +8,7 @@ and then kiwi
 
 [link](https://github.com/bmahardja)
 
-
+- Git
+- can
+- be
+- confusing
